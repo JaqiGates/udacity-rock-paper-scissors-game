@@ -8,7 +8,7 @@ This project was submitted to Udacity during their Intro to Programming Nanodegr
 ## Project Instructions
 Udacity learners were given starter code and instructions on what the final code should consist of. The `Player` class in the starter code always makes the same move.
 
-Every game looks like this:
+Every game originally looks like this:
 ```
 Game start!
 Round 0:
@@ -28,7 +28,7 @@ Game over!
 - Announce the winner of each round.
 - Keep score of each round won.
 - Show the scoreboard at the end of the game.
-- Allow the human player to input their moves without crashing the program. I created a `valid_input` function so players can enter their response in uppercase or lowercase. If the input is not vaild the program will display `'Sorry, I don't understand.'` and ask for input again.
+- Allow the human player to input their moves without crashing the program. I created a `valid_input` function so players can enter their response in uppercase or lowercase. If the input is not valld the program will display `'Sorry, I don't understand.'` and ask for input again.
 - Ask if the player wants to play again.
 
 ### [Udacity's Starter Code](https://video.udacity-data.com/topher/2021/August/6128db63_rps-starter-code/rps-starter-code.py)
